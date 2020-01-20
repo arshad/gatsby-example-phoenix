@@ -8,6 +8,7 @@ module.exports = {
     startUrl: `/`,
     copyright: `© YYYY Phoenix. All rights reserved.`,
     icon: `src/images/icon.png`,
+    logo: `logo.png`,
     color: `#3C64F1`,
     menuLinks: [
       {
