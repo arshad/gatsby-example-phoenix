@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.3](https://github.com/arshad/gatsby-themes/compare/@arshad/gatsby-example-phoenix@1.1.2...@arshad/gatsby-example-phoenix@1.1.3) (2020-03-02)
+
+
+### Bug Fixes
+
+* **phoenix:** update redirects ([b1c8c61](https://github.com/arshad/gatsby-themes/commit/b1c8c61a2cdb7840c1b413c6ba557fd1368003e9))
+
+
+
+
+
 ## [1.1.2](https://github.com/arshad/gatsby-themes/compare/@arshad/gatsby-example-phoenix@1.1.1...@arshad/gatsby-example-phoenix@1.1.2) (2020-01-28)
 
 **Note:** Version bump only for package @arshad/gatsby-example-phoenix
