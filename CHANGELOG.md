@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.7](https://github.com/arshad/gatsby-themes/compare/@arshad/gatsby-example-phoenix@1.1.6...@arshad/gatsby-example-phoenix@1.1.7) (2020-06-15)
+
+**Note:** Version bump only for package @arshad/gatsby-example-phoenix
+
+
+
+
+
 ## [1.1.6](https://github.com/arshad/gatsby-themes/compare/@arshad/gatsby-example-phoenix@1.1.5...@arshad/gatsby-example-phoenix@1.1.6) (2020-05-05)
 
 
