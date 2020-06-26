@@ -2,7 +2,7 @@
   "name": "@arshad/gatsby-example-phoenix",
   "description": "Demo for @arshad/gatsby-theme-phoenix.",
   "private": true,
-  "version": "1.1.7",
+  "version": "1.1.8",
   "author": "arshad <arshad@chummun.com>",
   "license": "MIT",
   "scripts": {
@@ -21,7 +21,7 @@
   "dependencies": {
     "@arshad/gatsby-theme-blog-core": "^1.2.1",
     "@arshad/gatsby-theme-page-core": "^1.1.6",
-    "@arshad/gatsby-theme-phoenix": "^1.1.7",
+    "@arshad/gatsby-theme-phoenix": "^1.1.8",
     "@arshad/gatsby-theme-photo-core": "^1.1.6",
     "@arshad/gatsby-theme-podcast-core": "^1.1.6",
     "@arshad/gatsby-theme-portfolio-core": "^1.1.6",
